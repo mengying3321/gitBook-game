@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-Game",
+  "version": "1.0.0",
+  "description": "这是游戏电子书。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengying3321/gitbook-Game.git"
+  },
+  "keywords": [],
+  "author": "luomengying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengying3321/gitbook-Game/issues"
+  },
+  "homepage": "https://github.com/mengying3321/gitbook-Game#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
